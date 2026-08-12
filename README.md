@@ -1,4 +1,4 @@
-# loan-default-risk-analysis
+# Loan Default Risk Analysis
 
 ## Project Overview
 
