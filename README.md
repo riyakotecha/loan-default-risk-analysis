@@ -60,12 +60,12 @@ Based on the exploratory analysis, three characteristics were selected to constr
 
 Each loan received one point for each characteristic present.
 
-| Risk Score | Default Rate |
-|------------|-------------:|
-| 0 | 19.85% |
-| 1 | 30.75% |
-| 2 | 46.50% |
-| 3 | 72.40% |
+| Risk Score | Total Loans | Default Rate |
+|------------|------------:|-------------:|
+| 0 | 97,055 | 19.85% |
+| 1 | 42,486 | 30.75% |
+| 2 | 8,879 | 46.50% |
+| 3 | 250 | 72.40% |
 
 Default rates increased substantially as additional risk characteristics were present, suggesting that combining multiple factors provides more useful risk segmentation than considering individual characteristics alone.
 
